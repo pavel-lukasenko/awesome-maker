@@ -12,6 +12,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [MagPI](https://www.raspberrypi.org/magpi-issues/) - A free (and official) archive of all MagPI issues as PDF
 * [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
 * [DIYODE](https://diyodemag.com/issues) - archive of DIYODE issues (paid)
+* [Woodwiki](https://www.woodwiki.org/) - Free woodworking education wiki: ~230 guides on hand tools, power tools, joinery, finishing, and wood species. Evidence-driven, no affiliate links, maintained by a Los Angeles cabinet shop.
 
 ## Buying & Selling
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
